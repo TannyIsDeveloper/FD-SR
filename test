@@ -12,20 +12,3 @@ else
         VirtualUser:ClickButton2(Vector2.new())
     end)
 end
-
-for i, d in pairs(v) do
-	local r = d.LevelReq;
-	if l >= r and r > m then
-		for k, t in pairs(d.Task) do
-			if t > 1 then
-				m = r;
-				b = {
-					NameQuest = n,
-					Name = k,
-					ID = i
-				};
-				break
-			end
-		end
-	end
-end
