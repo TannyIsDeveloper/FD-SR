@@ -1,0 +1,29 @@
+if ({2753915549, 4442272183, 7449423635})[v] ~= game.PlaceId then --Blox Fruits
+    return {
+        "1LOSTADMIN "; -- 2x EXP
+        "KITT_RESET"; -- Stat Refund
+        "Sub2UncleKizaru"; -- Stat Refund
+        "SUB2GAMERROBOT_RESET1"; -- Stat Refund
+        "SUB2CAPTAINMAUI"; -- EXP
+        "Enyu_is_Pro"; -- EXP
+        "Starcodeheo"; -- EXP
+        "Sub2Fer999"; -- EXP
+        "Magicbus"; -- EXP
+        "JCWK"; -- EXP
+        "kittgaming"; -- EXP
+        "Bluxxy"; -- EXP
+        "SUB2GAMERROBOT_EXP1"; -- EXP
+        "Axiore"; -- EXP
+        "Sub2Daigrock"; -- EXP
+        "Bignews"; --Title Bignews
+        "Sub2NoobMaster123"; -- EXP
+        "StrawHatMaine"; -- EXP
+        "TantaiGaming"; -- EXP
+        "TheGreatAce"; -- EXP 	
+        "CHANDLER"; -- for $0
+        "Fudd10"; --1$
+        "fudd10_v2"; -- for $2
+        "Sub2OfficialNoobie"; -- EXP
+    };
+-- elseif
+end
